@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YuriP123
 - 👀 I’m interested in tech,fashion,gaming
-- 🌱 I’m currently learning magento2
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: miguelpasamonte2@yahoo.com
 
