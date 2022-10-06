@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: miguelpasamonte2@yahoo.com
-[Leetcode Profile](https://leetcode.com/YuriP123/).
+
+[Leetcode Profile 👉](https://leetcode.com/YuriP123/)
+
 ![Profile views](https://gpvc.arturio.dev/YuriP123)
 ---
 ### Tech that I dabble in:
