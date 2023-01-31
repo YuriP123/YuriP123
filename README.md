@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @YuriP123
 - 👀 I’m interested in tech,fashion,sports
 - 🌱 I’m currently learning advanced react hooks
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me: miguelpasamonte2@yahoo.com
 
 [👉 Leetcode Profile](https://leetcode.com/YuriP123/)
 
