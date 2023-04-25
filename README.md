@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YuriP123
 - 👀 I’m interested in tech,fashion,sports
-- 🌱 I’m currently learning advanced react hooks
+- 🌱 I’m currently learning openAI API
 
 [👉 Leetcode Profile](https://leetcode.com/YuriP123/)
 
